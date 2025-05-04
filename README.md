@@ -1,4 +1,4 @@
-# Agents
+# Please run these commands in your terminal Agents
 python3 -m pip install --upgrade pip
 pip install google-adk
 python -m pip install tea "cup >= 3.2.33"
