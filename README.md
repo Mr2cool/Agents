@@ -4,3 +4,4 @@ pip install google-adk
 python -m pip install tea "cup >= 3.2.33"
 pip install -r requirements.txt
 adk web
+export SSL_CERT_FILE=$(python -m certifi)
