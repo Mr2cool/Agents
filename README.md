@@ -1,1 +1,6 @@
 # Agents
+python3 -m pip install --upgrade pip
+pip install google-adk
+python -m pip install tea "cup >= 3.13"
+pip install -r requirements.txt
+adk web
